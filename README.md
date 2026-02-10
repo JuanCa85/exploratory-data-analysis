@@ -39,11 +39,10 @@ Obtener insights relevantes a partir del análisis exploratorio de datos.
 
    ## Estructura del repositorio
 
-├── exploratory-data-analysis.ipynb
-
+├── exploratory-data-analysis.ipynb  
 ├── megaline_calls.csv  
 ├── megaline_internet.csv  
-├── megaline_messages.csv
+├── megaline_messages.csv  
 ├── megaline_plans.csv  
-├── megaline_users.csv
+├── megaline_users.csv  
 └── README.md
